@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">T-T-B</string>
-    <string name="greeting">Hello World!</string>
+    <string name="app_name">Bin-Text-Bin</string>
+    <string name="convert_button_text">CONVERT</string>
 </resources>
